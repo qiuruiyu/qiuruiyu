@@ -1,4 +1,4 @@
-# Hi there 👋 
+# Hi there 👋  
 My interest is Control, Computer Science, Optimization and Operational Reasearch.
 
 <p align="center"> 
