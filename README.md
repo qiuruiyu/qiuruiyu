@@ -1,10 +1,7 @@
 # Hi there 👋  
 My interest is Control, Computer Science, Optimization and Operational Reasearch.
 
-<p align="center"> 
-  Visitors :<br>
-  <img src="https://profile-counter.glitch.me/qiuruiyu/count.svg" />
-</p>
+
 
 
   
